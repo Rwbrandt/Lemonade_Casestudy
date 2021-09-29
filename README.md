@@ -1,6 +1,6 @@
 # FinTech Case Study
 
-# TITLE
+# Lemonade
 
 ## Overview and Origin
 
