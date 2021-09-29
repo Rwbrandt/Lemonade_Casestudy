@@ -6,15 +6,18 @@
 ## Overview and Origin
 
 * Name of company
+    Lemonade, Inc.
 
 * When was the company incorporated?
+    Founded April, 2015
 
 * Who are the founders of the company?
+    Founded by Daniel Schreiber, Shai Wininger, Ty Sagalow
 
 * How did the idea for the company (or project) come about?
-
+    Lemonade came about through three main points: First the overall size of the insurance industry, the sheer number of insurance companies not only in the United States, but around the world.  Second was the lack of innovation throughout that industry, the main processes and regulations for insurance companies have not changed despite constant change in the world (i.e. airplanes, internet, AI's, etc.).  Third, was the overarching theme of distrust amongst the general public with nearly every instance of the work "Insurance"
 * How is the company funded? How much funding have they received?
-
+    The company is privately funded through Venture Capilatist groups.  Receiving $13 million in seed capital in 2015, followed by $34 million in Series B funding in 2016, plus an dditional $120 million during their Series C offering in 2017.  All of this wrapped up with a Series D offering of $300 million, bringing their total funding to roughly $480 million over a just a few years
 ---
 
 
