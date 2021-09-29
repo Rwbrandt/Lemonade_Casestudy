@@ -37,11 +37,13 @@ What solution does this company offer that their competitors do not or cannot of
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+    Lemonade is positioned squarely in the Insurance Tech (InsurTech) industry
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+    Over the past 10 years, there have been a few new inventions have aided the progression of the insurance industry.  Drones have been introduced to assess structural integrity or structural damage of large buildings, helping to reduce the adjustment period by almost half, down from 11 days to about 6 days.  The largest contributor to the insurance realm has been the safety technology being implemented in all vehicles.  Anything and everything being introduced and utilized from parking sensors and reverse cameras, to lane departure warnings and Automatic Cruise Control are reducing the frequency and severity of auto insurance and accident-related medical claims
 
 * What are the other major companies in this domain?
-
+    There are countless other companies that inhabit the insurance industry.  Companies like GEICO, StateFarm, AllState, and Progressive are the largest insurers across the United States.  Other smaller, disruption-attempting companies 
 ---
 
 ## Results
