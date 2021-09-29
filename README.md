@@ -1,6 +1,7 @@
 # FinTech Case Study
 
-# Lemonade
+# Lemonade, Inc.
+![Lemonade Logo](LemonadeLogo.png)
 
 ## Overview and Origin
 
