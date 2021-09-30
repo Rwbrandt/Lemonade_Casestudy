@@ -66,8 +66,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Why are these technologies appropriate for your solution?
 
+---
 
-Addendum
+## Addendum
 https://en.wikipedia.org/wiki/Lemonade,_Inc.
 bloomberg.com/profile/company/1350648D:US
 https://www.crunchbase.com/organization/lemonade
