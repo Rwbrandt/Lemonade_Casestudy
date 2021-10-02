@@ -1,88 +1,60 @@
-# FinTech Case Study
 
 # Lemonade, Inc.
-![Lemonade Logo](LemonadeLogo.png)
+![Lemonade Logo](LemonadeLogo.png) 
 
 ## Overview and Origin
 
-* Name of company
+Lemonade, Inc was founded in April of 2015 by Daneil Schreiber, Shai Wininger, and Ty Sagalow.  Schreiber resides as the CEO of the company and has a strong background as the Senior Vice President of SanDisk.  Wininger brings a solid tech executive background, being the founder and the CTO of Fiverr.  Sagalow was the insurance professional of the trio, boasting 25 years of experience with AIG, serving 5 of those yeras as President of Product Development.  Ty Sagalow is the only founding member who is no longer with the company. 
 
-    Lemonade, Inc.
+The idea for Lemonade came about through three main points: First the overall size of the insurance industry, the sheer number of insurance companies not only in the United States, but around the world.  Second was the lack of innovation throughout that industry, the main processes and regulations for insurance companies have not changed despite constant change in the world (i.e. airplanes, internet, AI's, etc.).  Third, was the overarching theme of distrust amongst the general public with nearly every instance of the work "Insurance"
 
-* When was the company incorporated?
+The company is privately funded through Venture Capilatist groups.  Receiving $13 million in seed capital in 2015, followed by $34 million in Series B funding in 2016, plus an dditional $120 million during their Series C offering in 2017.  All of this wrapped up with a Series D offering of $300 million, bringing their total funding to roughly $480 million over a just a few years   
 
-    Founded April, 2015
-
-* Who are the founders of the company?
-
-    Founded by Daniel Schreiber, Shai Wininger, Ty Sagalow
-
-* How did the idea for the company (or project) come about?
-
-    Lemonade came about through three main points: First the overall size of the insurance industry, the sheer number of insurance companies not only in the United States, but around the world.  Second was the lack of innovation throughout that industry, the main processes and regulations for insurance companies have not changed despite constant change in the world (i.e. airplanes, internet, AI's, etc.).  Third, was the overarching theme of distrust amongst the general public with nearly every instance of the work "Insurance"
-* How is the company funded? How much funding have they received?
-
-    The company is privately funded through Venture Capilatist groups.  Receiving $13 million in seed capital in 2015, followed by $34 million in Series B funding in 2016, plus an dditional $120 million during their Series C offering in 2017.  All of this wrapped up with a Series D offering of $300 million, bringing their total funding to roughly $480 million over a just a few years   
 ---
-
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Lemonade's primary focus is to work through and change the overall impression of the insurance industry.  Unsurprisingly, there is an uphill battle of changing the mindset of distrust and general loathing for insurance as a whole.  With a slogan of "Insurance that doesn't suck" they are stating their goal right up front.
 
-    The company is attempting to work through the lack of transparancy and distrust for the insurance industry as a whole.
+Their targeted customer base are individuals that have insurance needs, they do not currently offer commerical insurance policies.  In the most ecent available data, Lemonade's market share of the US renters insurance industry was at 10%, an astounding number given their age of only 3 years.  Their greatest advantage over their competitors is their transparency and simplicity of use.  Many of their customers are raving over the ease of creating a policy, creating claims, getting paid for those claims, as well as Lemonade's drive to donate the excess premium dollars to a non-profit or charity of the customer's choice.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Lemonade is not breaking any new ground on the technology they use throughout their process, but they are allowing their technology more freedom than the incumbent carriers.  Their primary asset is their artificial intelligence program that has much more authority than similar programs of their competitors.  Lemonade is allowing their AI to assist with pricing models by gethering information about different geographical locations.  Information in these datasets includes population density, and weather patterns among other factors.  Other bits of info gathered include age ranges, marital status, and driving experience.  The AI program assists with the claims handling process as well by making decisions where human input was needed prior.  Fraud detection is the most significant way that Lemonade's AI is helping the company.  Their program is able to spot abnormailities in claim details much faster and more accurately than human counterparts, as well as certain types of damages (fire, flood, animal, vehicular, etc).  This is assisted by a portion of the claims filing process which requires the customer to record a video of themselves describing the incident and what their claim is right on the app using a basic facial recognition software.  This information can be crossed with data that matches with prior claims that have been discovered as fraudulent.
 
-    Lemonade's intended customer is any individual that has insurance needs.  In the most ecent available data, Lemonade's market share of the US renters insurance industry was at 10%, an astounding number given their age of only 3 years.  Their greatest advantage over their competitors is their transparency and simplicity of use.  Many of their customers are raving over the ease of creating a policy, creating claims, getting paid for those claims, as well as Lemonade's drive to donate the excess premium dollars to a non-profit or charity of the customer's choice.
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-    Artificial Intelligence - Assists with pricing models by learning about geographical location (population density, weather patterns, etc.), age ranges, marital status.  Claims handling can be assisted as well by allowing AI to make decisions where a human was needed prior (human = salary), also by automating the more mundane tasks about claims work, reducing the average time in process from days to potentially minutes.  Fraud detection is the most significant way that AI helps.  It will be able to spot abnormailities in claim details much faster and more accurately, as well as certain types of damages (fire, flood, animal, vehicular, etc)
-
-    Behavioral Economics
-
-    Bots - Perform tasks that normally take a paid employee to do (providing lower rates( Starting at $5/month for renters)), Bots are authorized to pay claims (Unheard of in insurance)
-
-
+Lemonade's other primary assisting techonology is their novel use of Bots.  They have a team of programmers that have trained these bots to perform the mundane tasks of the insurance claims process such as gathering basic information, making policy changes, initializing the claims process, or even making claim payments to customers.  This automation performs two crucial tasks for the company: First it reduces the handling time of each claim or request by a significant margin, going from days down to potentially minutes.  Second is the reduction in cost for the customer as there is no live associate that needs to be available to take down the information and update into their servers.  That reduction in overhead has allowed Lemonade to offer renters insurance policies starting as low as $5 per month.
 
 ---
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Lemonade is positioned squarely in the Insurance insudtry and is considered a disruptive InsurTech company.  Within this industry through the past 10 years, there has been relatively few innovations that are aiding in the progression of the age-old industry.  The most notable advancement has been the introduction of drones to the claims adjustment process.  Drones have been utilized to assess structural integrity or even structural damage of large buildings bot commerical and residential, helping to reduce the adjustment period by almost half, from 11 days down to about 6 days.  The largest contributor to the advancement of the insurance realm has been the car manufacturing companies introducing more and better safety technology in all vehicles.  Every piece of equipment being introduced and installed from parking sensors and reverse cameras, to lane departure warnings and Automatic Cruise Control are reducing the frequency and severity of auto insurance and accident-related medical claims.
 
-    Lemonade is positioned squarely in the Insurance Tech (InsurTech) industry
+Within the insurance industry there are countless other companies that are trying to take up space.  Large companies like GEICO, StateFarm, AllState, and Progressive make up the goliaths of the insurance world.  Other smaller, disruption-attempting companies include Cover, Slice Labs, Zelros and Spixii, to name just a few.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+---
 
-    Over the past 10 years, there have been a few new inventions have aided the progression of the insurance industry.  Drones have been introduced to assess structural integrity or structural damage of large buildings, helping to reduce the adjustment period by almost half, down from 11 days to about 6 days.  The largest contributor to the insurance realm has been the safety technology being implemented in all vehicles.  Anything and everything being introduced and utilized from parking sensors and reverse cameras, to lane departure warnings and Automatic Cruise Control are reducing the frequency and severity of auto insurance and accident-related medical claims
+![App Logo](AppLogo.png)
 
-* What are the other major companies in this domain?
-
-    There are countless other companies that inhabit the insurance industry.  Companies like GEICO, StateFarm, AllState, and Progressive are the largest insurers across the United States.  Other smaller, disruption-attempting companies 
 ---
 
 ## Results
 
-* What has been the business impact of this company so far?
+Lemonade has been quickly growing their book of business, increasing their market share at a blazing pace for such a young company.  Recently, they hit their 1 millionth policy holder, a feat that took some incumbent insurers decades to achieve.  While they have plenty of potential roadblocks looming in front of them, they have a high ceiling when it comes to their upside as more customers begin to leave the large name carriers for this startup and others like it.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+In terms of insurance success, there are a few metrics all insurance companies use to measure themselves.  Time in Process, or TIP, measures the speed at which the company handles customer requests.  These requests are anything from regular inquiries about policies to completing claim requests.  The second metric is Customer Service, often referred to as CS.  Two ways to gather that information are through surveys sent to customers, and utilizing programs such as SPRNKLR to comb through forms of Social Media for mentions of the selected company.
 
-* How is your company performing relative to competitors in the same domain?
+Lemonade is performing extremely well in both of the above metrics.  Their TIP for settling claims is as low as 3 minutes through utilization of their AI bots and claims process.  This number plays a great deal in their CS scores as well, which are incredibly high for an insurance company.  The overwhelming response across all platforms is that Lemonade, Inc. is a different company than other insurers.  Many consumers believe that the transparency of the company and the ease and speed of claims settlement make for a very customer friendly exoperience.
+
+Relative to the competition, Lemonade received less than average Insurance Commission complaints over the course of 2020.  That is an impressive feat given the young age of the provider.  While large ranking companies are not publishing findings on them yet, Smaller ratings firms are giving glowing reviews like Demotech, inc. rating Lemonade a solid A in terms of customer satisfaction.
 
 ---
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+The biggest and most feasable opportunity for Lemonade to expand upon would be to expand their offering line to include Auto Insurance.  Currently they only offer Homeowners, Renters, and pet insurance policies in roughly 36 states and Washington D.C.  
 
-* Why do you think that offering this product or service would benefit the company?
+While there are seemingly endless regulations to expanding into different states and even more regulations to expand into different lines of coverage, it can be extremely powerful in aiding their growing customer base and launching their carrier name into the stratosphere.  Many people have their Homeowners/Renters policies and won't change until there has been an issue, it can be difficult to continue to grow when potential customers are not interested in switching coverages.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+One of the more notable products on the market that could assist this expansion would be CCCOne's SmartEstimate program.  This would allow them to pull on CCC's national database of estimatse and photos to ensure an accurate photo-based estimate for smaller, minor damage claims.  For larger auto claims including Total Losses there are third party companies that can be hired such as SnapSheet that will offer guided photo sets for customers or shops to provide in order to review and provide a valuation encompassing the overall condition of the vehicle and all options installed on the loss vehicle. These options are a perfect fit for Lemonade's goals as they will each allow their blazing TIP speed to remain untouched while handling increasingly tedious auto repair claims.  CCCOne has been piloting their SmartEstimate program for several years now and it can complete a preliminary estimate that requires little adjustment wihtin a few minutes.  This is ideal for smaller damages that allow the customer to continue using their vehicle while setting up their repair appointments.  Utilizing this program will maintain the large draw for Lemonade of an easy claims process and keep transparancy high with their customers.
 
 ---
 
