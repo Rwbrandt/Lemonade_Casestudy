@@ -26,4 +26,4 @@ Chrunchbase, Daniel Schreiber Career - https://www.crunchbase.com/person/daniel-
 
 Chrunchbase, Shai Wininger Career - https://www.crunchbase.com/person/shai-wininger
 
-Innovation Insurance, Ty Sadalow Career- https://innovationinsurancegroup.com/about/ty-r-sagalow-ceo/
+Innovation Insurance, Ty Sagalow Career- https://innovationinsurancegroup.com/about/ty-r-sagalow-ceo/
