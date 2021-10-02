@@ -8,7 +8,7 @@ Lemonade, Inc was founded in April of 2015 by Daneil Schreiber, Shai Wininger, a
 
 The idea for Lemonade came about through three main points: First the overall size of the insurance industry, the sheer number of insurance companies not only in the United States, but around the world.  Second was the lack of innovation throughout that industry, the main processes and regulations for insurance companies have not changed despite constant change in the world (i.e. airplanes, internet, AI's, etc.).  Third, was the overarching theme of distrust amongst the general public with nearly every instance of the work "Insurance"
 
-The company is privately funded through Venture Capilatist groups.  Receiving $13 million in seed capital in 2015, followed by $34 million in Series B funding in 2016, plus an dditional $120 million during their Series C offering in 2017.  All of this wrapped up with a Series D offering of $300 million, bringing their total funding to roughly $480 million over a just a few years   
+The company is privately funded through Venture Capilatist groups.  Receiving $13 million in seed capital in 2015, followed by $34 million in Series B funding in 2016, plus an dditional $120 million during their Series C offering in 2017.  All of this wrapped up with a Series D offering of $300 million, bringing their total funding to roughly $480 million over a just a few years, per Wikipedia.
 
 ---
 
@@ -16,7 +16,7 @@ The company is privately funded through Venture Capilatist groups.  Receiving $1
 
 Lemonade's primary focus is to work through and change the overall impression of the insurance industry.  Unsurprisingly, there is an uphill battle of changing the mindset of distrust and general loathing for insurance as a whole.  With a slogan of "Insurance that doesn't suck" they are stating their goal right up front.
 
-Their targeted customer base are individuals that have insurance needs, they do not currently offer commerical insurance policies.  In the most ecent available data, Lemonade's market share of the US renters insurance industry was at 10%, an astounding number given their age of only 3 years.  Their greatest advantage over their competitors is their transparency and simplicity of use.  Many of their customers are raving over the ease of creating a policy, creating claims, getting paid for those claims, as well as Lemonade's drive to donate the excess premium dollars to a non-profit or charity of the customer's choice.
+Their targeted customer base are individuals that have insurance needs, they do not currently offer commerical insurance policies.  Per a 2018 edition of Lemonade's "Transparency Chonicles", thier market share of the US renters insurance industry was at 10%, an astounding number given their age of only 3 years.  Their greatest advantage over their competitors is their transparency and simplicity of use.  Many of their customers are raving over the ease of creating a policy, creating claims, getting paid for those claims, as well as Lemonade's drive to donate the excess premium dollars to a non-profit or charity of the customer's choice.
 
 Lemonade is not breaking any new ground on the technology they use throughout their process, but they are allowing their technology more freedom than the incumbent carriers.  Their primary asset is their artificial intelligence program that has much more authority than similar programs of their competitors.  Lemonade is allowing their AI to assist with pricing models by gethering information about different geographical locations.  Information in these datasets includes population density, and weather patterns among other factors.  Other bits of info gathered include age ranges, marital status, and driving experience.  The AI program assists with the claims handling process as well by making decisions where human input was needed prior.  Fraud detection is the most significant way that Lemonade's AI is helping the company.  Their program is able to spot abnormailities in claim details much faster and more accurately than human counterparts, as well as certain types of damages (fire, flood, animal, vehicular, etc).  This is assisted by a portion of the claims filing process which requires the customer to record a video of themselves describing the incident and what their claim is right on the app using a basic facial recognition software.  This information can be crossed with data that matches with prior claims that have been discovered as fraudulent.
 
@@ -58,20 +58,7 @@ One of the more notable products on the market that could assist this expansion 
 
 ---
 
-## Addendum
-https://en.wikipedia.org/wiki/Lemonade,_Inc
+[Addendum](Addendum.md)
 
-https://www.bloomberg.com/profile/company/1350648D:US.
 
-https://www.crunchbase.com/organization/lemonade
-
-https://investor.lemonade.com/home/default.aspx
-
-https://www.lemonade.com/blog/zero-to-100/
-
-https://www.propertycasualty360.com/2019/12/09/how-this-decades-tech-changed-the-insurance-industry/?slreturn=20210829192456
-
-https://www.digitalinsuranceagenda.com/featured-insurtechs/lemonade-the-market-most-talked-about-disruptor/
-
-https://www.bankrate.com/insurance/car/artificial-intelligence-meets-the-insurance-industry/
 
